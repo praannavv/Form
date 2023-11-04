@@ -33,3 +33,7 @@ We'd like to acknowledge the open-source community and the creators of the tools
 If you have any questions, need assistance, or want to get in touch, don't hesitate to reach out to us. We're here to help and support your web development journey.
 
 Enjoy building amazing websites with our HTML and CSS Starter Kit! We can't wait to see what you create also if any mistake that you come across in this templates please inform, i will really appreciate that and  feel free to modify and pull commit request
+
+
+Our templates is currently in need of improvements in terms of responsiveness to ensure it works seamlessly on various devices and screen sizes. If you have experience with responsive web design or would like to contribute in this aspect, we welcome your assistance.
+
